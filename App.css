@@ -1,0 +1,13 @@
+.App{
+
+    text-align: center;
+}
+.useroutput{
+    width: 60%;
+    border:2px solid #ccc;
+    margin: 20px auto;
+    
+}
+.userinput{
+  margin: 10px 0;
+}
